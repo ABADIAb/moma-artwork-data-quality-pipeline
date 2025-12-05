@@ -1,0 +1,13 @@
+# --- Python & Jupyter Junk ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- System Junk ---
+.DS_Store
+Thumbs.db
+
+# --- Virtual Environments (si usas venv) ---
+env/
+venv/
+.env
