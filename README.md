@@ -51,7 +51,7 @@ We tested four classifiers (Logistic Regression, Decision Tree, Random Forest, A
 This project is designed to be **environment-agnostic** (works on Local or Google Colab).
 
 1. **Clone the repository:**
-   git clone [https://github.com/YOUR_USERNAME/moma-artwork-data-quality-pipeline.git](https://github.com/YOUR_USERNAME/moma-artwork-data-quality-pipeline.git)
+   git clone [https://github.com/ABADIAb/moma-artwork-data-quality-pipeline.git](https://github.com/ABADIAb/moma-artwork-data-quality-pipeline.git)
    cd moma-artwork-data-quality-pipeline
 2. **Install dependencies:**
    pip install -r requirements.txt
